@@ -12,3 +12,4 @@ Referencias:
 * https://www.flextool.com.br/tabela_cores.html
 * https://pixabay.com/images/id-736885/
 
+![alt text](https://github.com/PHCJ/DIO_Modified-Netflix-Interface/blob/main/img/fim.jpg)
